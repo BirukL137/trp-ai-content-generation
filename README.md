@@ -21,7 +21,7 @@ A multi-provider AI content generation framework for music, video, and images.
 
 ```bash
 # Clone and install
-git clone [<repository>](https://github.com/BirukL137/trp-ai-content-generation.git)
+git clone https://github.com/BirukL137/trp-ai-content-generation.git
 cd trp-ai-content-generation
 uv sync
 
