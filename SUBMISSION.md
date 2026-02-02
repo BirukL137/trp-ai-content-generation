@@ -124,6 +124,6 @@
 ## **6. Links**
 
 * **YouTube Video**: Not available refer to challenges section for more details
-* **GitHub Repository**: [Link to GitHub repository with exploration artifacts](insert-link-here)
+* **GitHub Repository**: [Link to GitHub repository with exploration artifacts](https://github.com/BirukL137/trp-ai-content-generation.git)
 
 ---
